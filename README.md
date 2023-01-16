@@ -1,2 +1,2 @@
-# Fetch-API-Sandbox
-Fetch API sandbox
+# File deleted
+Deleted
